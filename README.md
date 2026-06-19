@@ -51,7 +51,7 @@ Pentru a rula inferența rapidă de tip "Black-Box" (care garantează alinierea 
 python test_pretrained_models.py
 ```
 
-## 📊 Dashboard de Vizualizare
+##  Dashboard de Vizualizare
 
 La finalul rulării scriptului, se va deschide o fereastră interactivă care conține o matrice grafică completă (organizată optim pe două coloane independente de tip 6 rânduri x 4 coloane pentru a preveni suprapunerea notațiilor statistice). Aceasta afișează pentru fiecare dintre cele 11 seturi de date:
 1. **Harta de detecție a anomaliilor** în format bidimensional ($H \times W$), colorată folosind paleta `Jet` (unde nuanțele de roșu indică o probabilitate ridicată de prezență a anomaliilor) și scalată rigid între 0 și 1.
