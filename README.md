@@ -67,6 +67,6 @@ La finalul rulării scriptului, se va deschide o fereastră interactivă care co
 
 În cadrul acestui proiect, implementarea inițială, analiza detaliată și explorarea hiperparametrilor au fost realizate în notebook-ul Jupyter dedicat. Acesta reprezintă mediul ideal de experimentare și oferă:
 
-* [cite_start]**Parcurgere Pas cu Pas:** O descompunere clară și explicată a fiecărui bloc structural al rețelei conform algoritmului din articol (S-block, J-block, W-block, L-block și P-block)[cite: 209].
+* **Parcurgere Pas cu Pas:** O descompunere clară și explicată a fiecărui bloc structural al rețelei conform algoritmului din articol (S-block, J-block, W-block, L-block și P-block).
 * **Rezultate Intermediare:** Afișarea în timp real a hărților de detecție și a evoluției curbelor ROC pe parcursul epocilor de antrenare, permițând observarea momentului exact în care intervine mecanismul de Early Stopping.
-* [cite_start]**Flexibilitate în Optimizare:** Posibilitatea de a modifica rapid parametrii critici ai rețelei, precum numărul de etape de update (*stages*)[cite: 207], numărul maxim de epoci, ratele de învățare separate pentru straturi și dicționar, precum și ponderea parametrului de regularizare $\lambda_{bg}$.
+* **Flexibilitate în Optimizare:** Posibilitatea de a modifica rapid parametrii critici ai rețelei, precum numărul de etape de update (*stages*), numărul maxim de epoci, ratele de învățare separate pentru straturi și dicționar, precum și ponderea parametrului de regularizare $\lambda_{bg}$.
